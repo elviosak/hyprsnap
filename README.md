@@ -5,10 +5,23 @@ A plugin to add aerosnap functionality to floating windows.
 https://github.com/user-attachments/assets/53f19b18-0064-4b39-941d-6683a6cfa386
 
 # Install
-```
+
+## With `hyprpm`
+``` bash
 hyprpm add https://github.com/elviosak/hyprsnap
 hyprpm enable hyprsnap
 ```
+
+## Manually
+``` bash
+git clone https://github.com/elviosak/hyprsnap
+cd hyprsnap
+make -C hyprsnap all
+hyprctl plugin load $(pwd)/hyprsnap/hyprsnap.so
+
+# add the last command to "exec-once" with the full path in your config
+```
+
 
 # Config
 ``` toml
