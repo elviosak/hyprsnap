@@ -1,6 +1,6 @@
 # hyprsnap
 
-A plugin to add aerosnap-like functionality to floating windows.
+A plugin to add aerosnap functionality to floating windows.
 
 https://github.com/user-attachments/assets/53f19b18-0064-4b39-941d-6683a6cfa386
 
