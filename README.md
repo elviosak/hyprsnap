@@ -2,7 +2,7 @@
 
 A plugin to add aerosnap functionality to floating windows.
 
-https://github.com/user-attachments/assets/53f19b18-0064-4b39-941d-6683a6cfa386
+https://github.com/user-attachments/assets/f5ef22d1-a893-4924-b7cf-a83b169348b7
 
 # Install
 
