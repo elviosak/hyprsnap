@@ -2,6 +2,8 @@
 
 A plugin to add aerosnap-like functionality to floating windows.
 
+https://github.com/user-attachments/assets/53f19b18-0064-4b39-941d-6683a6cfa386
+
 # Install
 ```
 hyprpm add https://github.com/elviosak/hyprsnap
